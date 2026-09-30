@@ -7,13 +7,13 @@ An end-to-end Machine Learning and Data Analytics project designed to detect, ev
 ## 🖼️ Dashboard Screenshots
 
 ### 1. Real-Time Transaction Alert
-![Real-Time Transaction Alert](Real_Time_transaction_Alert1.png)
+![Real-Time Transaction Alert](./Real_Time_transaction_Alert1.png)
 
 ### 2. Model Imbalance & Performance Metrics
-![Model Imbalance & Performance Metrics](Model_Imbalance_Metrics2.png)
+![Model Imbalance & Performance Metrics](./Model_Imbalance_&_Metrics2.png)
 
 ### 3. Single Transaction Risk Tester
-![Single Transaction Risk Tester](Single_Transaction_Tester3.png)
+![Single Transaction Risk Tester](./Single_Transaction_Tester3.png)
 
 ---
 
